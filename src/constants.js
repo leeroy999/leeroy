@@ -1,0 +1,1 @@
+export const sidebar = ["Introduction", "Experience", "Projects", "Recommendations", "Resume", "Contact"];
